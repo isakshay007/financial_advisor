@@ -1,3 +1,4 @@
 streamlit
-lyzr
 openai
+lyzr-automata
+python-dotenv
